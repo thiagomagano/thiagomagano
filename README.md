@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning ReactJS.
 - 📫 How to reach me: [Twitter](https://twitter.com/thymag) | [LinkedIn](https://linkedin.com/in/thiagomagano)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love churrasco and beer 🍖🍻
+- ⚡ Fun fact: I love barbecue and beer 🍖🍻
