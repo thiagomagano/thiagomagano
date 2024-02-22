@@ -1,7 +1,7 @@
 ### Fala gurizada! I'm Thiago Magano from Brazil 👨‍💻
 
 - 👷‍♂️ I'm a software engineer with 3 years of experience
-- 🌱 I’m currently learning Sveltekit.
+- 🌱 I’m currently learning Java ☕.
 - 📫 How to reach me:  [LinkedIn](https://linkedin.com/in/thiagomagano) [Site](http://thiagomagano.com.br)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love barbecue, soccer and beer 🍖🍻⚽
